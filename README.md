@@ -1,1 +1,2 @@
-This is a new localRepo
+This is a new Repo.
+Created a new branchgit 
